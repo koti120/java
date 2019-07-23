@@ -4,5 +4,6 @@ public class HelloWorld {
       System.out.println("Hello all, Welcome to Winning Devops Team");
       System.out.println("Moinng code from eclips to git hub repo");
       System.out.println("code added");
+      System.out.println("new lines got added");
    }
 }
